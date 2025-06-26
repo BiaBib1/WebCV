@@ -1,0 +1,112 @@
+{
+  "nombre": "Bianca Razzoli",
+  "datosPersonales": {
+    "nombre": "Bianca Razzoli",
+    "mail": "biabibi.urko@gmail.com",
+    "telefono": "",
+    "direccion": "Donostia, España",
+    "lema": "Apasionado por la tecnología y el desarrollo web",
+    "fechaNacimiento": "1989-11-23"
+  },
+  "experiencia": [
+    {
+      "puesto": "Desarrollador Full Stack",
+      "periodo": "2020 - Actualidad",
+      "descripcion": "Desarrollo de aplicaciones web modernas",
+      "funciones": [
+        "Desarrollo frontend con React y Vue.js",
+        "Desarrollo backend con Node.js y Python",
+        "Gestión de bases de datos MySQL y MongoDB"
+      ]
+    },
+    {
+      "puesto": "Desarrollador Frontend",
+      "periodo": "2016 - 2020",
+      "descripcion": "Especialización en interfaces de usuario",
+      "funciones": [
+        "Maquetación HTML/CSS responsive",
+        "Desarrollo JavaScript vanilla y jQuery",
+        "Optimización de rendimiento web"
+      ]
+    },
+    {
+      "puesto": "Desarrollador Frontend",
+      "periodo": "2016 - 2020",
+      "descripcion": "Especialización en interfaces de usuario",
+      "funciones": [
+        "Maquetación HTML/CSS responsive",
+        "Desarrollo JavaScript vanilla y jQuery",
+        "Optimización de rendimiento web"
+      ]
+    }
+  ],
+  "formacion": [
+    {
+      "titulo": "Máster en Desarrollo Web",
+      "horas": "600H",
+      "institucion": "Universidad de Deusto",
+      "temario": "JavaScript, React, Node.js, Bases de datos"
+    },
+    {
+      "titulo": "Grado en Ingeniería Informática",
+      "horas": "240 ECTS",
+      "institucion": "Universidad del País Vasco",
+      "temario": "Programación, Algoritmos, Sistemas, Redes"
+    }
+  ],
+  "idiomas": [
+    {
+      "idioma": "Italiano",
+      "lectura": 10,
+      "escritura": 10,
+      "comprension": 10,
+      "nivel": "Nativo"
+    },
+    {
+      "idioma": "Español",
+      "lectura": 10,
+      "escritura": 9,
+      "comprension": 10,
+      "nivel": "C1"
+    },
+     {
+      "idioma": "Inglés",
+      "lectura": 10,
+      "escritura": 9,
+      "comprension": 9,
+      "nivel": "B2"
+    },
+    {
+      "idioma": "Francés",
+      "lectura": 6,
+      "escritura": 6,
+      "comprension": 6,
+      "nivel": "A2"
+    }
+   
+  ],
+  "habilidades": [
+    {
+      "nombre": "Python",
+      "nivel": 9
+    },
+    {
+      "nombre": "SQL",
+      "nivel": 9
+    },
+    {
+      "nombre": "JavaScript",
+      "nivel": 6
+    }
+  ],
+  "contacto": {
+    "titulo": "Información de Contacto",
+    "descripcion": "Puedes contactarme a través de los siguientes medios"
+  },
+  "footer": {
+    "texto": "© 2025 Bianca Razzoli"
+  }
+}
+
+
+
