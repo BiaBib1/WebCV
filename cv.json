@@ -6,7 +6,8 @@
     "telefono": "",
     "direccion": "Donostia, España",
     "lema": "Apasionado por la tecnología y el desarrollo web",
-    "fechaNacimiento": "1989-11-23"
+    "fechaNacimiento": "1989-11-23",
+    "img_foto" : "link"
   },
   "experiencia": [
     {
@@ -97,11 +98,17 @@
     {
       "nombre": "JavaScript",
       "nivel": 6
+    },
+    {
+      "nombre": "Html",
+      "nivel": 6
     }
   ],
   "contacto": {
     "titulo": "Información de Contacto",
-    "descripcion": "Puedes contactarme a través de los siguientes medios"
+    "descripcion": "Puedes contactarme a través de los siguientes medios",
+    "linkedin": "https://www.linkedin.com/in/bianca-razzoli",
+    "github": "https://github.com/BiaBib1"
   },
   "footer": {
     "texto": "© 2025 Bianca Razzoli"
